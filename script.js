@@ -503,3 +503,11 @@ function resetGame() {
     pauseGame = false;
     gameOver = false;
 }
+
+
+
+
+
+
+
+// This
