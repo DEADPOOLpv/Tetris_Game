@@ -1,4 +1,4 @@
-# Tetris Game
+# [Tetris Game](https://deadpoolpv.github.io/)
 
 This repository contains a homebrew Tetris game.
 
@@ -21,9 +21,6 @@ Left and Right: move side to side<br>
 Up: Rotates the Pieces<br>
 Down: Peices Falls Faster<br>
 R: Resets the Game<br>
-
-### Ready to Dive In?
-[Hosted Game's Website](https://deadpoolpv.github.io/)
 
 ### Additional Notes:
 Feel free to modify the source code to customize various aspects of the game, such as difficulty levels, scoring system, or even add new features.
