@@ -230,5 +230,3 @@ function orientPoints(pieceType, rotation) {
 }
 
 
-
-
