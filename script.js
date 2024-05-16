@@ -505,5 +505,4 @@ function resetGame() {
 }
 
 
-
-// This
+// This code has been written by Prathit Visen
